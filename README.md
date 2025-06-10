@@ -1,6 +1,4 @@
 # Neural-Networks-Project2
-# CS5720 – Neural Networks and Deep Learning  
-## Home Assignment 2 – Summer 2025
 
 Student Id: 700765371
 Student Name: Siva Kumar Choutametla
